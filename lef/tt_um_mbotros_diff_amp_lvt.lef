@@ -228,7 +228,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uio_oe[0]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 49.990 224.760 50.290 225.760 ;
@@ -237,7 +237,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uio_oe[1]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 47.230 224.760 47.530 225.760 ;
@@ -246,7 +246,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uio_oe[2]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 44.470 224.760 44.770 225.760 ;
@@ -255,7 +255,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uio_oe[3]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 41.710 224.760 42.010 225.760 ;
@@ -264,7 +264,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uio_oe[4]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 38.950 224.760 39.250 225.760 ;
@@ -273,7 +273,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uio_oe[5]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 36.190 224.760 36.490 225.760 ;
@@ -282,7 +282,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uio_oe[6]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 33.430 224.760 33.730 225.760 ;
@@ -291,7 +291,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uio_oe[7]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 30.670 224.760 30.970 225.760 ;
@@ -300,7 +300,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uio_out[0]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 72.070 224.760 72.370 225.760 ;
@@ -309,7 +309,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uio_out[1]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 69.310 224.760 69.610 225.760 ;
@@ -318,7 +318,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uio_out[2]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 66.550 224.760 66.850 225.760 ;
@@ -327,7 +327,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uio_out[3]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 63.790 224.760 64.090 225.760 ;
@@ -336,7 +336,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uio_out[4]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 61.030 224.760 61.330 225.760 ;
@@ -345,7 +345,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uio_out[5]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 58.270 224.760 58.570 225.760 ;
@@ -354,7 +354,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uio_out[6]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 55.510 224.760 55.810 225.760 ;
@@ -363,7 +363,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uio_out[7]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 52.750 224.760 53.050 225.760 ;
@@ -372,7 +372,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uo_out[0]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 94.150 224.760 94.450 225.760 ;
@@ -381,7 +381,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uo_out[1]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 91.390 224.760 91.690 225.760 ;
@@ -390,7 +390,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uo_out[2]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 88.630 224.760 88.930 225.760 ;
@@ -399,7 +399,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uo_out[3]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 85.870 224.760 86.170 225.760 ;
@@ -408,7 +408,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uo_out[4]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 83.110 224.760 83.410 225.760 ;
@@ -417,7 +417,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uo_out[5]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 80.350 224.760 80.650 225.760 ;
@@ -426,7 +426,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uo_out[6]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 77.590 224.760 77.890 225.760 ;
@@ -435,7 +435,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
   PIN uo_out[7]
     DIRECTION OUTPUT ;
     USE SIGNAL ;
-    ANTENNADIFFAREA 127.173798 ;
+    ANTENNADIFFAREA 129.679398 ;
     PORT
       LAYER met4 ;
         RECT 74.830 224.760 75.130 225.760 ;
@@ -586,6 +586,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
         RECT 101.990 53.250 104.150 58.980 ;
         RECT 75.145 50.080 80.905 50.250 ;
         RECT 85.145 50.080 90.905 50.250 ;
+        RECT 87.850 48.540 89.210 49.410 ;
         RECT 75.145 47.630 80.905 47.800 ;
         RECT 85.145 47.630 90.905 47.800 ;
         RECT 60.830 40.830 62.990 46.560 ;
@@ -621,6 +622,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
         RECT 108.015 47.280 108.185 61.480 ;
         RECT 75.145 42.080 80.905 42.250 ;
         RECT 85.145 42.080 90.905 42.250 ;
+        RECT 76.870 40.470 78.230 41.340 ;
         RECT 95.830 40.830 97.990 46.560 ;
         RECT 101.990 40.830 104.150 46.560 ;
         RECT 108.015 46.070 109.420 47.280 ;
@@ -1190,6 +1192,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
         RECT 84.505 49.300 84.805 50.000 ;
         RECT 66.980 49.000 84.805 49.300 ;
         RECT 66.980 47.880 69.160 49.000 ;
+        RECT 87.460 48.400 89.610 49.520 ;
         RECT 95.820 47.880 97.980 56.575 ;
         RECT 102.045 53.270 104.090 58.960 ;
         RECT 66.980 47.580 80.910 47.880 ;
@@ -1395,6 +1398,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
         RECT 43.410 27.895 45.455 33.585 ;
         RECT 52.005 27.895 54.050 33.585 ;
         RECT 72.910 33.300 73.210 41.000 ;
+        RECT 76.440 40.350 78.590 41.470 ;
         RECT 93.550 40.885 93.850 41.590 ;
         RECT 81.230 40.585 93.850 40.885 ;
         RECT 95.820 40.810 97.980 41.590 ;
@@ -2127,6 +2131,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
         RECT 70.650 50.580 81.170 52.600 ;
         RECT 70.650 44.490 74.510 50.580 ;
         RECT 81.570 50.570 91.100 52.900 ;
+        RECT 87.460 48.400 89.600 49.510 ;
         RECT 74.840 45.170 82.770 47.370 ;
         RECT 83.280 45.230 91.100 47.380 ;
         RECT 91.390 44.760 94.500 53.230 ;
@@ -2135,6 +2140,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
         RECT 70.650 42.470 81.150 44.490 ;
         RECT 84.860 42.490 94.520 44.760 ;
         RECT 70.650 36.610 74.510 42.470 ;
+        RECT 76.450 40.340 78.590 41.450 ;
         RECT 91.390 39.470 94.500 42.490 ;
         RECT 102.030 40.880 104.130 49.420 ;
         RECT 108.340 46.180 109.380 47.260 ;
@@ -2192,6 +2198,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
         RECT 55.670 63.700 56.720 64.790 ;
         RECT 70.230 63.800 71.280 64.890 ;
         RECT 55.690 52.460 56.740 53.550 ;
+        RECT 76.460 40.340 78.590 41.450 ;
         RECT 42.600 34.540 43.650 35.630 ;
         RECT 55.230 33.790 56.280 34.880 ;
         RECT 79.610 33.990 82.810 66.990 ;
@@ -2204,6 +2211,7 @@ MACRO tt_um_mbotros_diff_amp_lvt
         RECT 101.340 66.020 145.560 66.990 ;
         RECT 98.340 62.950 133.400 63.750 ;
         RECT 108.340 61.550 109.390 62.640 ;
+        RECT 87.460 48.400 89.590 49.510 ;
         RECT 108.330 46.170 109.380 47.260 ;
         RECT 108.300 32.360 109.350 33.450 ;
         RECT 57.070 30.190 58.120 31.280 ;
@@ -2284,6 +2292,8 @@ MACRO tt_um_mbotros_diff_amp_lvt
         RECT 93.240 63.010 97.830 74.040 ;
         RECT 107.150 60.700 110.690 74.040 ;
         RECT 42.180 33.530 59.110 36.300 ;
+        RECT 75.080 33.530 79.310 41.780 ;
+        RECT 86.280 33.530 90.960 49.800 ;
         RECT 107.150 33.530 110.780 47.810 ;
         RECT 42.180 27.040 152.250 33.530 ;
         RECT 42.180 24.960 115.440 27.040 ;
